@@ -1,0 +1,11 @@
+brand,model,price,storage,ram,display_size,camera,processor,battery,os,rating,image_url
+Apple,iPhone 13,799,128,4,6.1,12,Apple A15 Bionic,3227,iOS 15,4.8,https://example.com/iphone13.jpg
+Samsung,Galaxy S21,799,128,8,6.2,64,Exynos 2100,4000,Android 11,4.6,https://example.com/s21.jpg
+Google,Pixel 6,599,128,8,6.4,50,Google Tensor,4614,Android 12,4.7,https://example.com/pixel6.jpg
+OnePlus,9 Pro,969,256,12,6.7,48,Snapdragon 888,4500,Android 11,4.5,https://example.com/oneplus9pro.jpg
+Xiaomi,11T Pro,749,256,12,6.67,108,Snapdragon 888,5000,Android 11,4.4,https://example.com/mi11tpro.jpg
+Apple,iPhone 12,699,64,4,6.1,12,Apple A14 Bionic,2815,iOS 14,4.7,https://example.com/iphone12.jpg
+Samsung,Galaxy A52,349,128,6,6.5,64,Snapdragon 720G,4500,Android 11,4.3,https://example.com/a52.jpg
+Google,Pixel 5a,449,128,6,6.34,12.2,Snapdragon 765G,4680,Android 11,4.4,https://example.com/pixel5a.jpg
+OnePlus,Nord 2,399,128,8,6.43,50,Dimensity 1200,4500,Android 11,4.3,https://example.com/nord2.jpg
+Xiaomi,Redmi Note 10 Pro,279,128,8,6.67,108,Snapdragon 732G,5020,Android 11,4.2,https://example.com/redminote10pro.jpg
